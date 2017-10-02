@@ -1,0 +1,1 @@
+A fill-in-the-blanks quotes quiz. The quiz prompts a user with a sentence containing several blanks. The user should then be asked to fill in each blank appropriately to complete the quote.
