@@ -1,2 +1,1 @@
-# python_dev
-My Python projects
+Inside are my solutions to three Udacity projects using Python.
